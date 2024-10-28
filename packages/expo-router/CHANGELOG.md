@@ -8,6 +8,8 @@
 
 ### 🐛 Bug fixes
 
+- Update `@react-navigation/core` imports to `@react-navigation/native`
+
 ### 💡 Others
 
 ## 4.0.0-preview.3 — 2024-10-26
